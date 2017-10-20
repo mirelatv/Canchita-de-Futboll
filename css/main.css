@@ -1,0 +1,79 @@
+.padre {
+background-color: green;
+width: 60%;
+height: 100%;
+position: relative;
+padding: 35vh 19vh;
+margin left:40%;
+margin right: 40%;
+}
+.hijo1 {
+border: solid white;
+background-color: green;
+position: absolute;
+top:  20px;
+left: 64px;
+right: 30px;
+border-bottom-width: 1vh;
+width:80vh;
+padding:30vh ;
+}
+.arco1{
+  border: solid white;
+  background-color: green;
+  position: absolute;
+  top:  80px;
+  left: 63px;
+  right: 20px;
+  height:20vh;
+  width:12vh;
+  padding:10vh ;
+}
+
+  .arco2 {
+    border: solid white;
+    background-color: green;
+    position: absolute;
+    top:  80px;
+    left: 122vh;
+    right: 50px;
+    height:20vh;
+    width:12vh;
+    padding:10vh ;
+  }
+  .circulo {
+   border: 2px solid white;
+   border-radius: 60%;
+   margin-left: 25%;
+   margin-top: -60px;
+   padding: 5em 3em;
+   width: 65px;
+   position: absolute;
+    }
+.pelota1{
+  color:white;
+  position:absolute;
+  left: 180px;
+  bottom: 180px;
+}
+.pelota2 {
+  top:60px;
+  color:white;
+  position:absolute;
+  left:350px;
+
+}
+.pelota3 {
+  bottom: 70px;
+  color:white;
+  position:absolute;
+  left: 500px;
+}
+
+
+
+
+}
+
+
+}
